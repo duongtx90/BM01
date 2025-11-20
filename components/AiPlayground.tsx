@@ -171,7 +171,7 @@ const AiPlayground: React.FC = () => {
                     <div className="text-gray-500 mb-4">
                         <p>Welcome to Brew Cortex [Enterprise Edition].</p>
                         <p>Initializing Gemini 2.5 Interface...</p>
-                        <p className="text-green-500">>> Connection Established.</p>
+                          <p className="text-green-500">&gt;&gt; Connection Established.</p>
                         <br />
                         <p className="text-gray-300">Enter a query to prototype a solution:</p>
                     </div>
